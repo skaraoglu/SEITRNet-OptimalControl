@@ -1,5 +1,11 @@
 <div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero_seitrnet_oc_dark.png">
+  <img alt="SEITRNet — Network-based SEITR epidemic modeling in R"
+       src="assets/hero_seitrnet_oc_dark.png" width="350">
+</picture>
+
 # SEITR \& Optimal Control
 
 ### Optimal control of SEITR epidemic dynamics on contact networks
