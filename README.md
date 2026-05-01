@@ -6,7 +6,7 @@
        src="assets/hero_seitrnet_oc_350.png" width="350">
 </picture>
 
-# SEITR \& Optimal Control
+# SEITRNet \& Optimal Control
 
 ### Optimal control of SEITR epidemic dynamics on contact networks
 
